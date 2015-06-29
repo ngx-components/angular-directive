@@ -12,7 +12,7 @@ export default function(ngModule, config){
       restrict: 'E',
       scope: {},
       templateUrl: config.baseUrl + '/template.html',
-      controller: 'controllerName'
+      controller: controllerName
     }
   }
 
