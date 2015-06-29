@@ -21,6 +21,7 @@ After installing the component:
 - edit directive definition object in `_build/ngx-directive.directive.js`
 - edit directive controller in `_build/ngx-directive.controller.js`
 - edit directive template in `template.jade`
+- update the directive name and controller name in `_build/config.js`
 
 and import the component in your Angular application:
 
